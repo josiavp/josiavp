@@ -6,11 +6,11 @@
 
 ### 🚀 Sobre mim
 
-- 💻 Atualmente desenvolvendo sistemas web com **ASP.NET Core MVC** e **C#**
-- 🚀 Aperfeiçoando habilidades em **SQL Server**, **Entity Framework**, **JavaScript**, **HTML/CSS**, **React** e **APIs REST**
-- 🧠 Estudando **Python** como segunda linguagem de back-end
-- ✨ Apaixonada por **inovação**, **design de interfaces (UI/UX)** e **automação de processos**
-- 📈 Interessada em **gerenciamento de projetos (PMBOK, SCRUM)** e **documentação técnica**
+- 💻 Atualmente desenvolvendo sistemas web com ASP.NET Core MVC e C#
+- 🚀 Aperfeiçoando habilidades em SQL Server, Entity Framework, JavaScript, HTML/CSS, React e APIs REST
+- 🧠 Estudando Python como segunda linguagem de back-end
+- ✨ Apaixonada por inovação, design de interfaces (UI/UX) e automação de processos
+- 📈 Interessada em gerenciamento de projetos (PMBOK, SCRUM) e documentação técnica
 
 ---
 
