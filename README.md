@@ -1,14 +1,14 @@
 ## 👋 Olá, sou a Josi!
 
-🎓 Estudante de Desenvolvimento Fullstack | 💻 Apaixonada por tecnologia
+🎓 Desenvolvedora Fullstack. Recém-formada e buscando oportunidades para aplicar minhas habilidades em projetos inovadores.| 💻 Apaixonada por criar soluções tecnológicas eficientes e intuitivas. 
 
 ---
 
 ### 🚀 Sobre mim
 
-- 💻 Atualmente desenvolvendo sistemas web com ASP.NET Core MVC e C#
-- 🚀 Aperfeiçoando habilidades em SQL Server, Entity Framework, JavaScript, HTML/CSS, React e APIs REST
-- 🧠 Estudando Python como segunda linguagem de back-end
+- 💻 Desenvolvedora web full-stack, com foco em **PHP** e nos frameworks **CodeIgniter** e **Laravel**. Também trabalho com **MySQL** e **APIs REST**.
+- 🚀 Minhas habilidades também se estendem a **C#**, **ASP.NET Core MVC**, **Entity Framework** e **SQL Server**.
+- 🎨 No front-end, uso **React**, **JavaScript**, **HTML**, **CSS** e **Bootstrap**.
 - ✨ Apaixonada por inovação, design de interfaces (UI/UX) e automação de processos
 - 📈 Interessada em gerenciamento de projetos (PMBOK, SCRUM) e documentação técnica
 
@@ -16,6 +16,10 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EE4227?style=flat-square&logo=codeigniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
